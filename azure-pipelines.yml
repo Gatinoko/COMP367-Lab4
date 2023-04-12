@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  agent: 'default'
+  name: 'default'
   vmImage: 'GATINOKO'
 
 steps:
